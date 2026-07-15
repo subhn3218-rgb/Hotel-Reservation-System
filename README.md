@@ -37,11 +37,6 @@ A sleek, modern, and user-friendly desktop application built entirely in **Java*
 * **UI Theme**: Custom Dark Mode Styling
 
 ---
-<br>
-<p align="center">
-  <b>Sole Developer:</b><br />
-  Developed individually as part of the <b>CodeAlpha Internship</b> program.
-</p>
 
 
 ## 📂 Project Structure
